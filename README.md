@@ -67,8 +67,8 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/TechShreyash/SiestaXMusic
-shikhar@MacBook~ $ cd SiestaXMusic
+shikhar@MacBook~ $ git clone https://github.com/amaninamdar09/MUSICBOT
+shikhar@MacBook~ $ cd MUSICBOT
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
 ```
