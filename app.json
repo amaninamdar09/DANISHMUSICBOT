@@ -1,12 +1,12 @@
 {
-  "name": "MUSICBOT",
+  "name": "DANISH MUSIC BOT",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
   "logo": "https://telegra.ph/file/70eacddcef7a56310cf70.jpg",
   "keywords": [
   "python3",
   "telegram",
   "bot",
-  "MUSICBOT",
+  "DANISH_MUSIC_BOT",
   "telegram-bot",
   "pyrogram"
   ],
