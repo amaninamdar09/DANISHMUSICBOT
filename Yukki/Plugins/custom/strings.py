@@ -4,7 +4,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 START_TEXT = f"""
 𝙷𝚎𝚢 MENTION !
-😈  I Aᴍ [Dᴀɴɪsʜ Mᴜsɪᴄ Bᴏᴛ](https://t.me/DANISHMUSIC_BOT), A Aᴡᴇsᴏᴍᴇ Mᴜsɪᴄ Bᴏᴛ Wɪᴛʜ Lᴏᴛs Oғ  Fᴇᴀᴛᴜʀᴇs
+😈  I Aᴍ Dᴀɴɪsʜ Mᴜsɪᴄ Bᴏᴛ, A Aᴡᴇsᴏᴍᴇ Mᴜsɪᴄ Bᴏᴛ Wɪᴛʜ Lᴏᴛs Oғ  Fᴇᴀᴛᴜʀᴇs
 ────────────────────
 
 ✪ Bᴏᴛ Fᴏʀ Pʟᴀʏɪɴɢ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Vᴄ Iɴ Bᴏᴛʜ Aᴜᴅɪᴏ Aɴᴅ Vɪᴅᴇᴏ Fᴏʀᴍᴀᴛ..😁❤️
