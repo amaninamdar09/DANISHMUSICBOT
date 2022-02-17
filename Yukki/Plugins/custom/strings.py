@@ -33,10 +33,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="⚡️𝙼𝚢 𝙾𝚠𝚗𝚎𝚛⚡️", url="https://t.me/TechZBots"
+                text="⚡️𝙼𝚢 𝙾𝚠𝚗𝚎𝚛⚡️", url="https://t.me/DANISH_BABA"
             ),
             InlineKeyboardButton(
-                text="✨ 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙶𝚛𝚘𝚞𝚙 ✨", url="https://t.me/TechZBots_Support"
+                text="✨ 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙶𝚛𝚘𝚞𝚙 ✨", url="https://t.me/WEFRIENDSCIRCLE"
             ),                       
         ],        
     ]
@@ -55,10 +55,10 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="⚡️𝙼𝚢 𝙾𝚠𝚗𝚎𝚛⚡️", url="https://t.me/TechZBots"
+                text="⚡️𝙼𝚢 𝙾𝚠𝚗𝚎𝚛⚡️", url="https://t.me/DANISH_BABA"
             ),
             InlineKeyboardButton(
-                text="✨ 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙶𝚛𝚘𝚞𝚙 ✨", url="https://t.me/TechZBots_Support"
+                text="✨ 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙶𝚛𝚘𝚞𝚙 ✨", url="https://t.me/WEFRIENDSCIRCLE"
             ),                       
         ],        
     ]
