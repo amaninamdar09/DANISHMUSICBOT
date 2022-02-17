@@ -88,9 +88,8 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/TechZBots)
-- [Telegram Support Group](https://t.me/TechZBots_Support)
-- [Contact Owner](https://t.me/Tech_Shreyash)
+## - [Contact Owner](https://t.me/DANISH_BABA)
+- [Telegram Support Group](https://t.me/WEFRIENDSCIRCLE)
 
 
 ## License
