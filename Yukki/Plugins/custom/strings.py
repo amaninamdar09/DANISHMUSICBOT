@@ -3,7 +3,7 @@ from Yukki import BOT_NAME, BOT_USERNAME
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 START_TEXT = f"""
-⚡ **𝙷𝚎𝚢 MENTION !
+𝙷𝚎𝚢 MENTION !
 😈  I Aᴍ [Dᴀɴɪsʜ Mᴜsɪᴄ Bᴏᴛ](https://t.me/DANISHMUSIC_BOT), A Aᴡᴇsᴏᴍᴇ Mᴜsɪᴄ Bᴏᴛ Wɪᴛʜ Lᴏᴛs Oғ  Fᴇᴀᴛᴜʀᴇs
 ────────────────────
 
@@ -12,7 +12,7 @@ START_TEXT = f"""
 ➼ Sᴏ Wʜᴀᴛ Yᴏᴜ Aʀᴇ Wᴀɪᴛɪɴɢ Tᴏ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Bᴀʙʏ..😉
 
 ᴀɴᴅ ᴅᴏɴ'ᴛ ꜰᴏʀɢᴏᴛ ᴛᴏ ᴘʀᴏᴍᴏᴛᴇ ᴍᴇ ᴡɪᴛʜ ᴀʟʟ ʀɪɢʜᴛꜱ..⚡️
-─────────────────── **
+─────────────────── 
 """
 
 COMMANDS_TEXT = f"""
@@ -33,10 +33,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TechZBots"
+                text="⚡️𝙼𝚢 𝙾𝚠𝚗𝚎𝚛⚡️", url="https://t.me/TechZBots"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TechZBots_Support"
+                text="✨ 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙶𝚛𝚘𝚞𝚙 ✨", url="https://t.me/TechZBots_Support"
             ),                       
         ],        
     ]
@@ -55,10 +55,10 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TechZBots"
+                text="⚡️𝙼𝚢 𝙾𝚠𝚗𝚎𝚛⚡️", url="https://t.me/TechZBots"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TechZBots_Support"
+                text="✨ 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙶𝚛𝚘𝚞𝚙 ✨", url="https://t.me/TechZBots_Support"
             ),                       
         ],        
     ]
