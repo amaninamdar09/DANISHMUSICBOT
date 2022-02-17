@@ -12,7 +12,7 @@
     <a href="https://t.me/TechZBots_Support"> Support Chat </a> 
 </p>
     
-# DANISH MUSIC BOT
+# [DANISH MUSIC BOT](https://t.me/DANISHMUSIC_BOT)
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
@@ -88,7 +88,7 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-## - [Contact Owner](https://t.me/DANISH_BABA)
+# - [Contact Owner](https://t.me/DANISH_BABA)
 - [Telegram Support Group](https://t.me/WEFRIENDSCIRCLE)
 
 
