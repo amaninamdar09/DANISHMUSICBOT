@@ -104,5 +104,5 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
 
-## Special Thanks
-**- [Shreyash OP](https://t.me/TECH_SHREYASH)**
+# Special Thanks
+##- [Shreyash OP](https://t.me/TECH_SHREYASH)
