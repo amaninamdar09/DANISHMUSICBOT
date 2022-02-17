@@ -105,4 +105,4 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 - [Charon Baglari](https://github.com/XCBv021)
 
 ## Special Thanks
-# - [Shreyash OP](https://t.me/TECH_SHREYASH)
+**- [Shreyash OP](https://t.me/TECH_SHREYASH)**
