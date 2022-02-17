@@ -3,10 +3,17 @@ from Yukki import BOT_NAME, BOT_USERNAME
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 START_TEXT = f"""
-✨ **Hello MENTION !**
+✨ **𝙷𝚎𝚢 MENTION !**
+😈  I Aᴍ [Dᴀɴɪsʜ Mᴜsɪᴄ Bᴏᴛ](https://t.me/DANISHMUSIC_BOT), A Aᴡᴇsᴏᴍᴇ Mᴜsɪᴄ Bᴏᴛ Wɪᴛʜ Lᴏᴛs Oғ  Fᴇᴀᴛᴜʀᴇs
+────────────────────
 
-**You can use [{BOT_NAME}](https://t.me/{BOT_USERNAME}) to play Music or Videos in your Group Video Chat.**
+✪ Bᴏᴛ Fᴏʀ Pʟᴀʏɪɴɢ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Vᴄ Iɴ Bᴏᴛʜ Aᴜᴅɪᴏ Aɴᴅ Vɪᴅᴇᴏ Fᴏʀᴍᴀᴛ..😁❤️
 
+➼ Sᴏ Wʜᴀᴛ Yᴏᴜ Aʀᴇ Wᴀɪᴛɪɴɢ Tᴏ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Bᴀʙʏ..😉
+
+ᴀɴᴅ ᴅᴏɴ'ᴛ ꜰᴏʀɢᴏᴛ ᴛᴏ ᴘʀᴏᴍᴏᴛᴇ ᴍᴇ ᴡɪᴛʜ ᴀʟʟ ʀɪɢʜᴛꜱ..⚡️
+─────────────────── 
+  
 💡 **Find out all the Bot's commands and how they work by clicking on the ➤ 📚 Commands button**
 """
 
