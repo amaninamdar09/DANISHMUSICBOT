@@ -88,7 +88,7 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-# - [Contact Owner](https://t.me/DANISH_BABA)
+<h3> - [Contact Owner](https://t.me/DANISH_BABA) <\h3>
 - [Telegram Support Group](https://t.me/WEFRIENDSCIRCLE)
 
 
