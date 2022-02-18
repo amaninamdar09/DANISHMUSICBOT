@@ -140,7 +140,7 @@ BACK_BUTTON = InlineKeyboardMarkup(
 SUDO_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="More Sudo Commands", url="https://telegra.ph/SiestaXMusic-Sudo-Commands-02-08"
+                text="More Sudo Commands", url="https://telegra.ph/%F0%9D%90%83%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%92%F0%9D%90%87-%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%92%F0%9D%90%88%F0%9D%90%82-%F0%9D%90%81%F0%9D%90%8E%F0%9D%90%93-02-18"
             ),                        
         ],
         [
