@@ -101,8 +101,8 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 
 # Contact & Support
 
-## [Contact Owner](https://t.me/DANISH_BABA) 
-## [Telegram Support Group](https://t.me/WEFRIENDSCIRCLE)
+## [Telegram Support](https://t.me/WEFRIENDSCIRCLE) 
+# [My Owner](https://t.me/DANISH_BABA)
 
 
 
