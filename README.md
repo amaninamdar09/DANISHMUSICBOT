@@ -105,9 +105,11 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 ## [Telegram Support Group](https://t.me/WEFRIENDSCIRCLE)
 
 
-# Special Thanks :- [Team Yukki](https://t.me/OfficialYukki)
+
+# Special Thanks 
 ## [Shreyash OP](https://t.me/TECH_SHREYASH)
 ## [Hunter OP](https://t.me/HunterXD)
+# [Team Yukki](https://t.me/OfficialYukki)
 
 
 
