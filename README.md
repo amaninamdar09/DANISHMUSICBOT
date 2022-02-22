@@ -84,11 +84,6 @@ shikhar@MacBook~ $ bash start
 - Checkout Only [Mandatory Vars](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars)
 - Checkout Some [Configs](https://notreallyshikhar.gitbook.io/yukkimusicbot/setup-config/config)
 
-## Contact & Support
-
-- [Contact Owner](https://t.me/DANISH_BABA) 
-- [Telegram Support Group](https://t.me/WEFRIENDSCIRCLE)
-
 
 ## License
 
@@ -103,6 +98,12 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 - [CallsMusic Team](https://github.com/Callsmusic)
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
+
+# Contact & Support
+
+## [Contact Owner](https://t.me/DANISH_BABA) 
+## [Telegram Support Group](https://t.me/WEFRIENDSCIRCLE)
+
 
 # Special Thanks :- [Team Yukki](https://t.me/OfficialYukki)
 ## [Shreyash OP](https://t.me/TECH_SHREYASH)
