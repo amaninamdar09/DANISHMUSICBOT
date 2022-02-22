@@ -4,10 +4,10 @@
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="https://t.me/SiestaXMusicBot"> Ready-To-Use Bot </a> •
-    <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
-    <a href="https://t.me/TechZBots"> Support Channel </a> •
-    <a href="https://t.me/TechZBots_Support"> Support Chat </a> 
+    <a href="https://t.me/DANISHMUSIC_BOT"> Ready-To-Use Bot </a> •
+    <a href="https://amaninamdar09.gitbook.io/MUSICBOT/about/getting-started"> Documentation </a> •
+    <a href="https://t.me/DANISH_BABA"> Contact Owner </a> •
+    <a href="https://t.me/WEFRIENDSCIRCLE"> Support Chat </a> 
 </p>
     
 # [DANISH MUSIC BOT](https://t.me/DANISHMUSIC_BOT)
