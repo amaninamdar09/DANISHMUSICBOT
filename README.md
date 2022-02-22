@@ -5,7 +5,7 @@
 </h4>
 <p align="center">
     <a href="https://t.me/DANISHMUSIC_BOT"> Ready-To-Use Bot </a> •
-    <a href="https://amaninamdar09.gitbook.io/danishmusicbot/about/getting-started"> Documentation </a> •
+    <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
     <a href="https://t.me/DANISH_BABA"> Contact Owner </a> •
     <a href="https://t.me/WEFRIENDSCIRCLE"> Support Chat </a> 
 </p>
