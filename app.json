@@ -14,22 +14,22 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "9172720",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "273075e367ccadb248bacc2101b43ad9",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "",
+      "value": "5157142486:AAHuWCq24yXRIq6MBPaT-B4nYyoEU_ybD84",
       "required": true
     },
     "DURATION_LIMIT": {
       "description": "Duration Limit for Playout (In Mins).. Example: 60",
-      "value": "60",
+      "value": "180",
       "required": true
     },
     "ASSISTANT_PREFIX": {
@@ -39,17 +39,17 @@
     },
     "MONGO_DB_URI": {
       "description": "Mongo DB URL",
-      "value": "",
+      "value": "mongodb+srv://kvaiyukki09:kvaiyukki09@cluster0.qvhkz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
       "required": true
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "",
+      "value": "𝐃𝐀𝐍𝐈𝐒𝐇 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓",
       "required": true
     },    
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "",
+      "value": "1968830241",
       "required": true
     },
     "STRING_SESSION1": {
@@ -79,7 +79,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Your Heroku account's API key",
-      "value": "",
+      "value": "63850e07-e54a-4bad-9543-626c18ca7bb0",
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -89,12 +89,12 @@
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-      "value": "",
+      "value": "-1001510782734",
       "required": true
     },
     "SUDO_USERS": {
       "description": "The user id(s) of user(s) whom you would like to add as a SUDO. Multiple values shall be seperated with a space.",
-      "value": "",
+      "value": "1968830241",
       "required": true
     },
     "THUMB_LINK": {
@@ -104,7 +104,7 @@
     },
     "BOT_USERNAME": {
       "description": "Your bot's username.",
-      "value": "",
+      "value": "DANISHMUSIC_BOT",
       "required": true
     },
     "LIMIT": {
