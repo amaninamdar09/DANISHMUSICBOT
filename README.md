@@ -53,7 +53,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy DANISH MUSIC BOT on Heroku!</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Famaninamdar09%2FMUSICBOT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Famaninamdar09%2FDANISHMUSICBOT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
     
 </details>
 
@@ -65,7 +65,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/amaninamdar09/MUSICBOT
+shikhar@MacBook~ $ git clone https://github.com/amaninamdar09/DANISHMUSICBOT
 shikhar@MacBook~ $ cd MUSICBOT
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
