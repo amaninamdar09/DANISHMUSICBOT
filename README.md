@@ -66,7 +66,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 
 ```console
 shikhar@MacBook~ $ git clone https://github.com/amaninamdar09/DANISHMUSICBOT
-shikhar@MacBook~ $ cd MUSICBOT
+shikhar@MacBook~ $ cd DANISHMUSICBOT
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
 ```
@@ -93,11 +93,7 @@ Distributed under the [GNU General Public License v3.0 License.](https://github.
 
 Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
 
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Charon Baglari](https://github.com/XCBv021)
+# [Team Yukki](https://t.me/OfficialYukki)
 
 # Contact & Support
 
@@ -106,10 +102,10 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 
 
 
-# Special Thanks 
+# Thank You Guys..
 ## [Shreyash OP](https://t.me/TECH_SHREYASH)
 ## [Hunter OP](https://t.me/HunterXD)
-# [Team Yukki](https://t.me/OfficialYukki)
+
 
 
 
