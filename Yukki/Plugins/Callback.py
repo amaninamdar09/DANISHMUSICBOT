@@ -84,10 +84,7 @@ async def admin_risghts(_, CallbackQuery):
             await music_on(chat_id)
             await resume_stream(chat_id)
             await CallbackQuery.message.reply_text(
-                f" ▶️ Track resumed.
-
-                • To pause the stream, use the
-                » /pause command.",
+                f"🎧 Voicechat Resumed by {CallbackQuery.from_user.mention}!",
                 reply_markup=audio_markup2,
             )
             await CallbackQuery.message.delete()
