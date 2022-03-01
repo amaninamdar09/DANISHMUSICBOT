@@ -7,7 +7,7 @@ load_dotenv()
 # VARS
 
 get_queue = {}
-BOT_TOKEN = getenv("BOT_TOKEN", "5157142486:AAHxPApp4POmR9m4DpucSUXPSfIGX2Ghyf8")
+BOT_TOKEN = getenv("BOT_TOKEN", "5157142486:AAG740rXvfWibCUPCkMK8hE6yRPDUMu2FEs")
 API_ID = int(getenv("API_ID", "11977266"))
 API_HASH = getenv("API_HASH", "a128248e7223b86e6d1c417e8f355704")
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "10"))
@@ -39,7 +39,7 @@ botusername = str(getenv("BOT_USERNAME", "DANISHMUSIC_BOT"))
 if str(getenv("STRING_SESSION1")).strip() == "":
     STRING1 = str(None)
 else:
-    STRING1 = str(getenv("STRING_SESSION1", "AQAGQakYdl8pcp4HkujbUpv-3JRnq4FCLJD3jLwMXx1ZpXjUbmSXBdKs-uHMdpvqG51YgI3HQsVcv96THKcPy-MOTwv5k4qqeJfofLvFVzqyYVRa4F-rAII72Ue4HtIK1nWuGDItmHLvWo5b78S1B6lNkm9V3FOq3ouHC7d8iJfYC-mgpaQPa2gW3VqoJdg4I4AgKe9okM53O_RzTHrjNdm317b3LnTlWaQMEfYDUfYAsKCG4uwR_NvL5u3MRGzZuf1TaSgXVxMDxZAfArjizYapSTH4fLL7sU2vuUtygwjFn-gkMnaF0_ccJ8q04O7EtvqroYHfMcm2pxuBFYu0ISBFAAAAATf_Kb0A"))
+    STRING1 = str(getenv("STRING_SESSION1", "AQAucqbZ84L7edhayHCKib9J1QARC67ovCb9ePaPGGOzUnlpiZ1y94fExAtkKupkc_DCThAp-jCWQ-f5z8_MfkCGjup8Hu83awRUT9p9FfSuZoBuqsSQoQOJPKjEi8sc-al2rJhlnf8QBnWoM8EgwrW3YkcyCO1JbiqXI4jhKKdySOdy96EDZ6xBDp5ddxXzpsr9BuIX73i5G4Pu6jk-Pnx2wpiowFAT7urPTQQHgYNXG5-Vn0W7RqniX3V_V58KNc7CreIRRlAdjKULQkXyxjs7MBDDeZlBupcmQw7M386fqVK4ZNaT6BAVHbdrcyX4KPCCuFyzDfRS7yLAKrhJpfQFAAAAATf_Kb0A"))
 
 if str(getenv("STRING_SESSION2")).strip() == "":
     STRING2 = str(None)
