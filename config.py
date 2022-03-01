@@ -39,7 +39,7 @@ botusername = str(getenv("BOT_USERNAME", "DANISHMUSIC_BOT"))
 if str(getenv("STRING_SESSION1")).strip() == "":
     STRING1 = str(None)
 else:
-    STRING1 = str(getenv("STRING_SESSION1", "AQCFZ6sIwX485rMsOlXQCl56ZgTaz09jM6VA_yaY7GTZM5byXt552ZkDlCdmFiqELkReJM0kzTe2CrTmxF-cjZoudktzRbJQ5K5f-HoFE_gIFzr8aCjgm0lgY8NlEldCCtrAeAl2GuYdBqIOU9uooXo7MYCkqvzi9RVMUik_XYZBfi_khY4J6mSAgfw2WcQSpbetIHEu4wy7pLBwcfEZ9S3WhdunY-9rV99jMBKzVEkuy-B98tDjME8Y3uVhz0_UNIxcVKT10NA9n0CuJKcOtGxRqkYAGlB4MVBcXrtokweOOkRf1h2ci5oorljIgXYli6GegSh5BqnC50-vzs9iwEbGAAAAATf_Kb0A"))
+    STRING1 = str(getenv("STRING_SESSION1", "AQAGQakYdl8pcp4HkujbUpv-3JRnq4FCLJD3jLwMXx1ZpXjUbmSXBdKs-uHMdpvqG51YgI3HQsVcv96THKcPy-MOTwv5k4qqeJfofLvFVzqyYVRa4F-rAII72Ue4HtIK1nWuGDItmHLvWo5b78S1B6lNkm9V3FOq3ouHC7d8iJfYC-mgpaQPa2gW3VqoJdg4I4AgKe9okM53O_RzTHrjNdm317b3LnTlWaQMEfYDUfYAsKCG4uwR_NvL5u3MRGzZuf1TaSgXVxMDxZAfArjizYapSTH4fLL7sU2vuUtygwjFn-gkMnaF0_ccJ8q04O7EtvqroYHfMcm2pxuBFYu0ISBFAAAAATf_Kb0A"))
 
 if str(getenv("STRING_SESSION2")).strip() == "":
     STRING2 = str(None)
