@@ -7,39 +7,33 @@ load_dotenv()
 # VARS
 
 get_queue = {}
-BOT_TOKEN = getenv("BOT_TOKEN", "5157142486:AAG740rXvfWibCUPCkMK8hE6yRPDUMu2FEs")
-API_ID = int(getenv("API_ID", "11977266"))
-API_HASH = getenv("API_HASH", "a128248e7223b86e6d1c417e8f355704")
+BOT_TOKEN = getenv("BOT_TOKEN")
+API_ID = int(getenv("API_ID", ""))
+API_HASH = getenv("API_HASH")
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "10"))
 ASSISTANT_PREFIX = list(getenv("ASSISTANT_PREFIX", ".").split())
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://kvaiyukki09:kvaiyukki09@cluster0.qvhkz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5032100535").split()))
-OWNER_ID = list(map(int, getenv("OWNER_ID", "1968830241").split()))
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001510782734"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝐃𝐀𝐍𝐈𝐒𝐇 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 ")
+MONGO_DB_URI = getenv("MONGO_DB_URI")
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
-UPSTREAM_REPO = "https://github.com/amaninamdar09/DANISHMUSICBOT"
+UPSTREAM_REPO = "https://github.com/amaninamdar09/DANISHMUSICBOMT"
 UPSTREAM_BRANCH = "main"
 
-if str(getenv("SUPPORT_CHANNEL")).strip() == "":
-    SUPPORT_CHANNEL = None
-else:
-    SUPPORT_CHANNEL = str(getenv("SUPPORT_CHANNEL", "https://t.me/DANISH_BABA"))
-if str(getenv("SUPPORT_GROUP")).strip() == "":
-    SUPPORT_GROUP = None
-else:
-    SUPPORT_GROUP = str(getenv("SUPPORT_GROUP", "https://t.me/WEFRIENDSCIRCLE"))
+SUPPORT_CHANNEL = "https://t.me/TechZBots"
+SUPPORT_GROUP = "https://t.me/TechZBots_Support"
 
 THUMBNAIL = getenv("THUMB_LINK") 
 
-botusername = str(getenv("BOT_USERNAME", "DANISHMUSIC_BOT"))
+botusername = str(getenv("BOT_USERNAME"))
 
 if str(getenv("STRING_SESSION1")).strip() == "":
     STRING1 = str(None)
 else:
-    STRING1 = str(getenv("STRING_SESSION1", "AQAucqbZ84L7edhayHCKib9J1QARC67ovCb9ePaPGGOzUnlpiZ1y94fExAtkKupkc_DCThAp-jCWQ-f5z8_MfkCGjup8Hu83awRUT9p9FfSuZoBuqsSQoQOJPKjEi8sc-al2rJhlnf8QBnWoM8EgwrW3YkcyCO1JbiqXI4jhKKdySOdy96EDZ6xBDp5ddxXzpsr9BuIX73i5G4Pu6jk-Pnx2wpiowFAT7urPTQQHgYNXG5-Vn0W7RqniX3V_V58KNc7CreIRRlAdjKULQkXyxjs7MBDDeZlBupcmQw7M386fqVK4ZNaT6BAVHbdrcyX4KPCCuFyzDfRS7yLAKrhJpfQFAAAAATf_Kb0A"))
+    STRING1 = str(getenv("STRING_SESSION1"))
 
 if str(getenv("STRING_SESSION2")).strip() == "":
     STRING2 = str(None)
