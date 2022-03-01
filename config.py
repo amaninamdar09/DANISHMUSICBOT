@@ -23,8 +23,8 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 UPSTREAM_REPO = "https://github.com/amaninamdar09/DANISHMUSICBOT"
 UPSTREAM_BRANCH = "main"
 
-SUPPORT_CHANNEL = "https://t.me/TechZBots"
-SUPPORT_GROUP = "https://t.me/TechZBots_Support"
+SUPPORT_CHANNEL = "https://t.me/DANISH_BABA"
+SUPPORT_GROUP = "https://t.me/WEFRIENDSCIRCLE"
 
 THUMBNAIL = getenv("THUMB_LINK") 
 
