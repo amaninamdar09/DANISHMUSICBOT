@@ -71,7 +71,7 @@ async def admin_risghts(_, CallbackQuery):
             await music_off(chat_id)
             await pause_stream(chat_id)
             await CallbackQuery.message.reply_text(
-                f"⏸ **Track paused!**\n\n• **To resume the stream, use the**\n» /resume command.",
+                f" Ja na paused ho gaya",
                 reply_markup=audio_markup2,
             )
             await CallbackQuery.message.delete()
