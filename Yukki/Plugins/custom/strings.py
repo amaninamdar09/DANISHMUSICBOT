@@ -4,14 +4,11 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 START_TEXT = f"""
 𝙷𝚎𝚢 MENTION !
-😈  I Aᴍ Dᴀɴɪsʜ Mᴜsɪᴄ Bᴏᴛ, A Aᴡᴇsᴏᴍᴇ Mᴜsɪᴄ Bᴏᴛ Wɪᴛʜ Lᴏᴛs Oғ  Fᴇᴀᴛᴜʀᴇs
-────────────────────
+⚡ I Aᴍ Dᴀɴɪsʜ Mᴜsɪᴄ Bᴏᴛ, A Aᴡᴇsᴏᴍᴇ Mᴜsɪᴄ Bᴏᴛ Wɪᴛʜ Lᴏᴛs Oғ  Fᴇᴀᴛᴜʀᴇs..⚡
 
-✪ Bᴏᴛ Fᴏʀ Pʟᴀʏɪɴɢ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Vᴄ Iɴ Bᴏᴛʜ Aᴜᴅɪᴏ Aɴᴅ Vɪᴅᴇᴏ Fᴏʀᴍᴀᴛ..😁❤️
 
-➼ Sᴏ Wʜᴀᴛ Yᴏᴜ Aʀᴇ Wᴀɪᴛɪɴɢ Tᴏ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Bᴀʙʏ..😉
+✪ Bᴏᴛ Fᴏʀ Pʟᴀʏɪɴɢ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Vᴄ Iɴ Bᴏᴛʜ Aᴜᴅɪᴏ Aɴᴅ Vɪᴅᴇᴏ Fᴏʀᴍᴀᴛ..😉
 
-ᴀɴᴅ ᴅᴏɴ'ᴛ ꜰᴏʀɢᴏᴛ ᴛᴏ ᴘʀᴏᴍᴏᴛᴇ ᴍᴇ ᴡɪᴛʜ ᴀʟʟ ʀɪɢʜᴛꜱ..⚡️
 ─────────────────── 
 """
 
