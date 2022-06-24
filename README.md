@@ -6,7 +6,7 @@
 <p align="center">
     <a href="https://t.me/DANISHMUSIC_BOT"> Ready-To-Use Bot </a> •
     <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
-    <a href="https://t.me/DANISH_BABA"> Contact Owner </a> •
+    <a href="https://instagram.com/amaninamdar_09?igshid=YmMyMTA2M2Y="> Contact Owner </a> •
     <a href="https://t.me/WEFRIENDSCIRCLE"> Support Chat </a> 
 </p>
     
