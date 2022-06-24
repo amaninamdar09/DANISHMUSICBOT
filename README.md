@@ -98,7 +98,7 @@ Special thanks to these amazing projects/people which/who help power DANISH MUSI
 # Contact & Support
 
 ## [Telegram Support](https://t.me/WEFRIENDSCIRCLE) 
-# [My Owner](https://t.me/DANISH_BABA)
+# [My Owner](https://instagram.com/amaninamdar_09?igshid=YmMyMTA2M2Y=)
 
 
 
